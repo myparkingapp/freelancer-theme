@@ -1,5 +1,5 @@
 # Site settings
-title: Myparkingapp
+title: My parking
 email: myparkingappinfo@gmail.com
 description: "Try to look for a parking place? Try myparkingapp"
 
@@ -11,7 +11,7 @@ color:
   
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Startup Team
   location: Location
   social: Around the Web
   credits: Credits
